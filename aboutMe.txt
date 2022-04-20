@@ -1,3 +1,7 @@
 Spencer Goles 
 Male
 Computer Engineering
+
+Courses:
+- software engineering
+- software engineering lab
